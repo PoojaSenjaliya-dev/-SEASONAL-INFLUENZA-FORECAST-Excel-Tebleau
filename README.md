@@ -53,4 +53,10 @@ Project files are stored using the following folder structure:
 
 -----
 
+## Deliverables:
+
+The link to the final Tableau Storyboard can be accessed <a href="https://public.tableau.com/app/profile/poojaben.thummar/vizzes"> here  </a>
+
+
+
 
