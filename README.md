@@ -19,9 +19,13 @@ The scope of the analysis encompasses examining historical influenza data, inclu
 
 2 datasets were used throughout this project:
 
-● Influenza deaths by geography - From the CDC
 
-● Population data by geography, time, age, and gender - From the US Census Bureau
+● [CDC_Influenza_Deaths_edited.xlsx](https://github.com/user-attachments/files/19536598/CDC_Influenza_Deaths_edited.xlsx)
+
+● [CDC_Influenza_Visits.xlsx](https://github.com/user-attachments/files/19536651/CDC_Influenza_Visits.xlsx)
+
+● https://coach-courses-us.s3.amazonaws.com/public/courses/data-immersion/A1-A2_Influenza_Project/Census_Population_transformed_202101.csv
+
 
 Excel and Tableau Public were used throughout this project.
 
